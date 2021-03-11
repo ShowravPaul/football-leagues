@@ -49,7 +49,7 @@ const LeagueDetails = () => {
                             <h5> <FontAwesomeIcon icon={faMars} />   Gender: {strGender}</h5>
                         </div>
                         <div className="col-md-4">
-                            <img className="male-female-img" src={imageUrl} alt="Image has not loaded yet!"></img>
+                            <img className="male-female-img" src={imageUrl} alt=""></img>
                         </div>
                     </div>
                 </div>
@@ -57,9 +57,9 @@ const LeagueDetails = () => {
                     <p>{strDescriptionEN}</p>
                 </div>
                 <div className="footer-img">
-                    <a href={`https://${strFacebook}` } target="_blank"><img src={ iconFacebook } alt=""/></a>
-                    <a href={`https://${strTwitter}`} target="_blank"><img src={ iconTwitter } alt=""/></a>
-                    <a href={`https://${strYoutube}`} target="_blank"><img src={ iconYoutube } alt=""/></a>
+                    <a href={`https://${strFacebook}` } target="_blank" rel="noreferrer"><img src={ iconFacebook } alt=""/></a>
+                    <a href={`https://${strTwitter}`} target="_blank" rel="noreferrer"><img src={ iconTwitter } alt=""/></a>
+                    <a href={`https://${strYoutube}`} target="_blank" rel="noreferrer"><img src={ iconYoutube } alt=""/></a>
                 </div>
             </div>
         </div>
