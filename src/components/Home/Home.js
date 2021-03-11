@@ -15,7 +15,7 @@ const Home = () => {
     return (
         <div className="background-color">
             <div className="header-img img-fluid">
-                <h1 className="web-name">Soccer Leagues</h1>
+                <h1 className="web-name">Football Leagues</h1>
             </div>
             <div className="container">
                 <div className="row">

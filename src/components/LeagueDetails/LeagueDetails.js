@@ -8,7 +8,7 @@ import iconTwitter from '../../icon/Twitter.png';
 import iconYoutube from '../../icon/YouTube.png';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFlag, faMagic, faMap } from '@fortawesome/free-solid-svg-icons'
+import { faFlag} from '@fortawesome/free-solid-svg-icons'
 import { faFutbol } from '@fortawesome/free-solid-svg-icons'
 import { faMars } from '@fortawesome/free-solid-svg-icons'
 import { faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons'
