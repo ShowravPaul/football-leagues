@@ -1,0 +1,41 @@
+.league-details-about{
+    text-align: left;
+}
+.male-female-img{
+    height: 90%;
+    width: 100%;
+}
+.bg-color-card{
+    background-color: rgb(245, 118, 96);
+}
+.detail-card{
+    margin: 2% 6%;
+    padding: 2% 1%;
+    align-self: center;
+}
+.league-details-background{
+    width: 100%;
+    height: 600px;
+    background-image: url('../../image/background-img-detail.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.badgeImage{
+    height: 200px;
+    width: 200px;
+    margin-top: 15%;
+}
+.body-bg-color{
+    background-color: rgb(229, 165, 153);
+    padding-bottom: 10px;
+}
+.description{
+    padding: 4% 6%;
+    text-align: justify;
+}
+.footer-img img{
+    width: 60px;
+    height: 60px;
+    margin: 0 1%;
+}
