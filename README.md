@@ -3,4 +3,4 @@ A website that shows some information about football leagues. Here, information 
 React javascript library has been used to develop this website. And it has been hosted from “netlify.com”.
 
 Here is the link of live site:
-https://6049ccd73b8f7e5aae830128--ecstatic-booth-431399.netlify.app/
+https://football-leagues.netlify.app/
